@@ -25,7 +25,7 @@ It turns out Pi-Apps was just the beginning. Over time I found additional softwa
 - [Downgrade Chromium](https://www.raspberrypi.org/forums/viewtopic.php?f=63&t=308303) - The latest and greatest web browsers are not necessarily the best, or the fastest. This application allows you to easily switch versions of Chromium Browser.
 - [Twister OS Updater](https://github.com/Botspot/TwistUP) - Twister OS's previous python-powered updating program was a nightmare to understand and maintain. I rewrote it in bash  and added some additional features, and it has proven to be far better than the previous patching program.
 - UltiFlash - the world's most advanced and flexible imaging tool. This, by far, is the longest and most complicated bash script I've ever written, and it's not completely finished yet.
-- [Scratch 2](https://github.com/Botspot/scratch2) - When though Adobe Flash Player was deprecated, Scratch 2 was removed from all RPiOS systems through an apt update. This annoyed many people, so I found a way to bring it back and make it work again.
+- [Scratch 2](https://github.com/Botspot/scratch2) - When Adobe Flash Player was deprecated, Scratch 2 was removed from all RPiOS systems through an apt update. This annoyed many people, so I found a way to bring it back and make it work again.
 - Finally, I've written, or at least edited, all of the app-installers on [Pi-Apps](https://github.com/Botspot/pi-apps).
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Botspot&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
