@@ -12,7 +12,7 @@ Then what did they want? **Desktop software.** In hindsight, I wonder how I miss
 I thought to myself, "*If only someone maintained a centralized collection of tutorials?* What if those tutorials had a 'Run script' button? And what if you could easily undo the changes it made with an 'Uninstall' button?"  
 Thus, [Pi-Apps](https://github.com/Botspot/pi-apps) was born.  
 In early 2020 it was a small application that I never imagined would see widespread use. But slowly, word spread through the community that there is finally a convenient alternative to tutorials. Soon it was added to [Twister OS](https://twisteros.com) and not long after, Pi-Apps was featured by all the large RPi YouTubers.  
-Today, Pi-Apps has over 100 apps and likely serves over 500,000 users though it's hard to know for sure.  
+Today, Pi-Apps has over 200 apps and likely serves over 2 million users though it's hard to know for sure.  
 
 It turns out Pi-Apps was just the beginning. Over time I found additional software niches that nothing else was filling:
 
@@ -28,7 +28,7 @@ It turns out Pi-Apps was just the beginning. Over time I found additional softwa
 - [Twister OS Updater](https://github.com/Botspot/TwistUP) - Twister OS's previous python-powered updating program was a nightmare to understand and maintain. I rewrote it in bash  and added some additional features, and it has proven to be far better than the previous patching program.
 - UltiFlash - the world's most advanced and flexible imaging tool. This, by far, is the longest and most complicated bash script I've ever written, and it's not completely finished yet.
 - [Scratch 2](https://github.com/Botspot/scratch2) - When Adobe Flash Player was deprecated, Scratch 2 was removed from all RPiOS systems through an apt update. This annoyed many people, so I found a way to bring it back and make it work again.
-- Finally, I've written, or at least edited, all of the app-installers on [Pi-Apps](https://github.com/Botspot/pi-apps).
+- Finally, I've written, or at least reviewed, all of the app-installers on [Pi-Apps](https://github.com/Botspot/pi-apps).
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Botspot&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
