@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm just a guy who believes everyone should be able use a Raspberry Pi as their daily, desktop PC. Many things that x86 Linux and Windows users take for granted is not easy or straightforward on ARM Linux, so I try to do what I can as a shell scripter to **lower the barrier to entry.**  
+My dream is for Linux to become a go-to OS for personal computing, and to have it run well on even the cheapest Single Board Computers under $100. Many things that x86 Linux and Windows users take for granted is not easy or straightforward on ARM Linux, so I try to do what I can as a shell scripter to **lower the barrier to entry.**  
 
 In 2018, when I was in middle school, I was given a Raspberry Pi 3. I knew nothing about Linux or programming. Raspbian was harder to use back then, and I encountered numerous issues, many of which were my own doing. Slowly, through hundreds of Google searches, I began making a list of useful terminal commands to do specific things: copy a file, create a keyboard shortcut, install something, search for a file, make a backup, close an unresponsive program, or recover from a frozen screen. Eventually, my list of commands was getting very long, and that's when I discovered **shell scripts** - a special text file that runs a list of terminal commands. How useful!  
 
@@ -22,4 +22,4 @@ So as a child and growing up, I have written numerous shell scripts to make what
 Most of these scripts I have written, released, and left alone to slowly rot. Pi-Apps is an exception. Enough people use Pi-Apps that it justifies the time it takes to keep it maintained and forever improving.  
 I'm just one guy, a busy college student. If you have read this far and want to help, please reach out! I could use some help with Pi-Apps. Anybody who knows a bit of scripting is welcome to look through the codebase and offer code improvements and new apps. Also, if you want, I would be glad to help you understand how any of my scripts work. Just join [my discord server](https://discord.gg/RXSTvaUvuu) and ask whatever you want.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Botspot&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+I have recently fallen on hard financial times. If you would like to donate as a way of saying thanks, I have a [GitHub Sponsors profile](https://github.com/sponsors/Botspot) and a [PayPal link](https://www.paypal.biz/botspot).
