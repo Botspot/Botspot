@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My dream is for Linux to become a go-to OS for personal computing, and to have it run well on even the cheapest Single Board Computers under $100. Many things that x86 Linux and Windows users take for granted is not easy or straightforward on ARM Linux, so I try to do what I can as a shell scripter to **lower the barrier to entry.**  
+My dream is for Linux to become a go-to OS for personal computing, and to have it run well on even the cheapest Single Board Computers under $100. Many things that x86 Linux and Windows users take for granted are not easy or straightforward on ARM Linux, so I try to do what I can as a shell scripter to **lower the barrier to entry.**  
 
 In 2018, when I was in middle school, I was given a Raspberry Pi 3. I knew nothing about Linux or programming. Raspbian was harder to use back then, and I encountered numerous issues, many of which were my own doing. Slowly, through hundreds of Google searches, I began making a list of useful terminal commands to do specific things: copy a file, create a keyboard shortcut, install something, search for a file, make a backup, close an unresponsive program, or recover from a frozen screen. Eventually, my list of commands was getting very long, and that's when I discovered **shell scripts** - a special text file that runs a list of terminal commands. How useful!  
 
@@ -8,9 +8,9 @@ Shell scripting is not suitable for everything, but it sure can get a lot done o
 
 So as a child and growing up, I have written numerous shell scripts to make what was one hard, easy. Some of my best scripts are published here on github for everyone's benefit.
 
-- [vdesktop](https://github.com/Botspot/vdesktop) - basically VirtualBox but it runs on a Raspberry Pi. This command-line tool was the first RPi-compatible application capable of interacting with the virtual machine's **graphical desktop session.**  
+- [vdesktop](https://github.com/Botspot/vdesktop) - basically VirtualBox but it runs on a Raspberry Pi. This command-line tool was the first RPi-compatible application capable of interacting with the virtual machine's graphical desktop session.  
 - [Pi Power Tools](https://github.com/Botspot/Pi-Power-Tools) - a suite of tools for creating and modifying Raspberry Pi OS disk-images and SD cards. This was the first application I made with a GUI interface.  
-- [Pi-Apps](https://github.com/Botspot/pi-apps) - the most popular Raspberry Pi app store by far.
+- [Pi-Apps](https://github.com/Botspot/pi-apps) - **the most popular Raspberry Pi app store by far.**
 - [YouTubuddy](https://github.com/Botspot/youtubuddy) - The private, lightweight YouTube search engine & player with the best hardware-acceleration available.
 - [CloudBuddy](https://github.com/Botspot/cloudbuddy) - The ultimate way to manage your cloud storage on any Linux computer. This is a bash-powered GUI frontend for `rclone`, and includes built-in support for Google Drive, Dropbox, and OneDrive. It's vastly more convenient than any other web interface or tool available elsewhere.
 - [AndroidBuddy](https://github.com/Botspot/androidbuddy) - Manage your Android phone from a Linux computer. Allows complete screen control, file sharing, internet sharing, and much more.
